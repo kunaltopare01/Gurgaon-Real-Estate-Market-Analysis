@@ -56,7 +56,7 @@ gurgaon-real-estate-analysis/
 └── images/
     ├── area_vs_price.png
     └── area_vs_rate_per_sqft.png
-
+```
 ---
 
 ## 🚀 How to Run the Project
