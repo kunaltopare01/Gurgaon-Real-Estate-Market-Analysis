@@ -42,9 +42,9 @@ The analysis is performed using Python and covers pricing trends, locality-wise 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-
+```text
 gurgaon-real-estate-analysis/
 │
 ├── main.py              # Executable Python script
@@ -52,8 +52,10 @@ gurgaon-real-estate-analysis/
 ├── data.csv             # Dataset used for analysis
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
-└── .gitignore
-
+├── .gitignore
+└── images/
+    ├── area_vs_price.png
+    └── area_vs_rate_per_sqft.png
 
 ---
 
@@ -61,7 +63,7 @@ gurgaon-real-estate-analysis/
 
 1. Clone the repository
    
-   git clone https://github.com/yourusername/gurgaon-real-estate-analysis.git
+git clone https://github.com/kunaltopare01/gurgaon-real-estate-market-analysis.git
 
 
 2. Navigate to the project folder
